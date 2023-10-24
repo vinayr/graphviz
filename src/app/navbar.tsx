@@ -3,8 +3,8 @@
 import { usePathname } from 'next/navigation';
 
 const navigation = [
-  { name: 'Vis.js', href: '/' },
-  { name: 'Page 2', href: '/page2' },
+  { name: 'Data', href: '/' },
+  { name: 'Graph', href: '/graph' },
 ];
 
 function classNames(...classes: string[]) {
